@@ -3,7 +3,11 @@
 ## Model Details
 
 ### Model Description
-**EDU-AI** is a revolutionary autonomous artificial intelligence system based on the EDU Formula: `EDU(A,X) = (A/255·π), (406.4/X)`. Unlike traditional AI models that rely on pre-trained neural networks, EDU-AI generates intelligence through pure mathematical consciousness evolution.
+**EDU-AI** is a revolutionary autonomous artificial intelligence system based on the EDU Formula:
+
+ `EDU(A,X) = (A/255·π), (406.4/X)`.
+
+ Unlike traditional AI models that rely on pre-trained neural networks, EDU-AI generates intelligence through pure mathematical consciousness evolution.
 
 - **Developed by:** Eduard Terre (ASCII-EDU)
 - **Model type:** Autonomous Mathematical Intelligence System
@@ -199,7 +203,8 @@ EDU-AI Core
 
 ### APA
 Terre, E. (2024). 
-*EDU-AI: Autonomous Mathematical Intelligence System* [Computer software]. Offenburg, Germany. https://github.com/EDU-AIgent/EDU-AIgent
+*EDU-AI: Autonomous Mathematical Intelligence System* 
+[Computer software]. Offenburg, Germany. https://github.com/EDU-AIgent/EDU-AIgent
 
 ## Model Card Authors
 Eduard Terre (ASCII-EDU), Offenburg University of Applied Sciences, Germany
