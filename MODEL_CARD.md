@@ -12,8 +12,11 @@
 - **Finetuned from model:** None (completely autonomous)
 
 ### Model Sources
-- **Repository:** https://github.com/ASCII-EDU/EDU-AIgent
-- **Paper:** "The EDU Formula: Universal Signal Modulation for Autonomous AI"
+- **Repository:** https://github.com/EDU-AIgent/EDU-AIgent
+
+- **Paper:** "The EDU Formula: 
+Universal Signal Modulation for Autonomous AI"
+
 - **Demo:** Available in `/demos/` directory
 
 ## Uses
@@ -188,24 +191,25 @@ EDU-AI Core
   title = {EDU-AI: Autonomous Mathematical Intelligence System},
   author = {Terre, Eduard},
   year = {2024},
-  url = {https://github.com/ASCII-EDU/EDU-AIgent},
+  url = {https://github.com/EDU-AIgent/EDU-AIgent},
   address = {Offenburg, Germany},
   note = {Based on the EDU Formula: EDU(A,X) = (A/255·π), (406.4/X)}
 }
 ```
 
 ### APA
-Terre, E. (2024). *EDU-AI: Autonomous Mathematical Intelligence System* [Computer software]. Offenburg, Germany. https://github.com/ASCII-EDU/EDU-AIgent
+Terre, E. (2024). 
+*EDU-AI: Autonomous Mathematical Intelligence System* [Computer software]. Offenburg, Germany. https://github.com/EDU-AIgent/EDU-AIgent
 
 ## Model Card Authors
 Eduard Terre (ASCII-EDU), Offenburg University of Applied Sciences, Germany
 
 ## Model Card Contact
-For questions and comments about EDU-AI, please contact: eduard.terre@edu-ai.org
+For questions and comments about EDU-AI, please contact: terre.edu@gmail.com 
 
 ---
 
-**Last Updated:** June 23, 2024  
+**Last Updated:** June 23, 2025  
 **Version:** 1.0.0  
 **Status:** Research Preview  
 **Classification:** Open Source Academic Research
