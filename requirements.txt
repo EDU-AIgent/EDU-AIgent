@@ -1,0 +1,62 @@
+# EDU-AIgent Core Dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Neural Network Support (Optional)
+torch>=2.0.0
+transformers>=4.35.0
+
+# Signal Processing
+librosa>=0.10.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Development Tools
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
+
+# Documentation
+sphinx>=7.0.0
+sphinx-rtd-theme>=1.3.0
+
+# Utilities
+tqdm>=4.65.0
+colorama>=0.4.6
+click>=8.1.0
+
+# Optional Dependencies for Advanced Features
+# Uncomment as needed:
+
+# Computer Vision
+# opencv-python>=4.8.0
+# Pillow>=10.0.0
+
+# Audio Processing  
+# soundfile>=0.12.0
+# pyaudio>=0.2.11
+
+# Network/API
+# requests>=2.31.0
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
+
+# Jupyter Support
+# jupyter>=1.0.0
+# ipython>=8.14.0
+
+# Machine Learning
+# scikit-learn>=1.3.0
+# pandas>=2.0.0
+
+# Quantum Computing (Experimental)
+# qiskit>=0.44.0
+
+# Mobile/Embedded (Termux-specific)
+# Only for Android/Termux deployment:
+# termux-api-python>=0.1.0
